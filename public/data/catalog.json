@@ -2,7 +2,7 @@
   "title": "风格提示词图鉴",
   "title_en": "Style Prompt Gallery",
   "version": "1.54.0",
-  "count": 6146,
+  "count": 6144,
   "updated": "2026-10-03",
   "styles": [
     {
@@ -63648,28 +63648,6 @@
       "usage_hint_zh": "将 {prompt} 替换为你的主体/场景描述。本批条目侧重建筑可视化、风景、城市、室内、摄影、材质、设计、产品与信息图风格。"
     },
     {
-      "id": "inw-full-body-walking-away-from-camera-slightly-detailed-foliage-crisp-su",
-      "name_zh": "full body walking away from camera sligh",
-      "name_en": "full body walking away from camera slightly detailed foliage, crisp su",
-      "category": "photography",
-      "category_zh": "摄影",
-      "prompt": "{prompt}, full body walking away from camera slightly detailed foliage, crisp sunlight, natural colors overcast soft daylight, diffuse shadows, melancholy feel",
-      "negative_prompt": "blurry, low quality, watermark, logo, deformed architecture, cluttered composition",
-      "source_url": "https://github.com/iniwap/ai-prompt-gallery",
-      "source_note": "iniwap ai-prompt-gallery / id=272 tags=architecture,clay,landscape,nature,photography,vehicle",
-      "image": "images/inw-full-body-walking-away-from-camera-slightly-detailed-foliage-crisp-su.jpg",
-      "image_remote": "https://github.com/iniwap/ai-prompt-gallery/blob/main/images/648.jpeg",
-      "compatible_with": [
-        "SDXL",
-        "Stable Diffusion",
-        "Flux (adapt)",
-        "Midjourney (adapt)",
-        "GPT-Image (adapt)",
-        "AI Horde (adapt)"
-      ],
-      "usage_hint_zh": "将 {prompt} 替换为你的主体/场景描述。本批条目侧重建筑可视化、风景、城市、室内、摄影、材质、设计、产品与信息图风格。"
-    },
-    {
       "id": "inw-fully-transparent-product-made-of-ultra-clear-iridescent-glass-show",
       "name_zh": "fully transparent [product] made of ultr",
       "name_en": "fully transparent [product] made of ultra-clear iridescent glass, show",
@@ -63857,28 +63835,6 @@
       "source_note": "iniwap ai-prompt-gallery / id=805 tags=poster,product,vehicle",
       "image": "images/inw-imagine-a-visual-concept-where-insert-your-product-featuring-korea.jpg",
       "image_remote": "https://github.com/iniwap/ai-prompt-gallery/blob/main/images/115.png",
-      "compatible_with": [
-        "SDXL",
-        "Stable Diffusion",
-        "Flux (adapt)",
-        "Midjourney (adapt)",
-        "GPT-Image (adapt)",
-        "AI Horde (adapt)"
-      ],
-      "usage_hint_zh": "将 {prompt} 替换为你的主体/场景描述。本批条目侧重建筑可视化、风景、城市、室内、摄影、材质、设计、产品与信息图风格。"
-    },
-    {
-      "id": "inw-messy-shoulder-length-bob-with-wispy-bangs-lavender-cropped-hoodie-wit",
-      "name_zh": "messy shoulder-length bob with wispy ban",
-      "name_en": "messy shoulder-length bob with wispy bangs lavender cropped hoodie wit",
-      "category": "illustration",
-      "category_zh": "插画",
-      "prompt": "{prompt}, messy shoulder-length bob with wispy bangs lavender cropped hoodie with soft contour shading white ankle socks with tiny pastel stripes painted curb, faded crosswalk lines, distant buildings, cloudy-bright sky",
-      "negative_prompt": "blurry, low quality, watermark, logo, deformed architecture, cluttered composition",
-      "source_url": "https://github.com/iniwap/ai-prompt-gallery",
-      "source_note": "iniwap ai-prompt-gallery / id=345 tags=animal,architecture,interior,landscape,nature,neon",
-      "image": "images/inw-messy-shoulder-length-bob-with-wispy-bangs-lavender-cropped-hoodie-wit.jpg",
-      "image_remote": "https://github.com/iniwap/ai-prompt-gallery/blob/main/images/575.jpeg",
       "compatible_with": [
         "SDXL",
         "Stable Diffusion",
